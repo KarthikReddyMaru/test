@@ -1,3 +1,6 @@
 === FIELD TRIP ===
 
 <!-- Add food items here -->
+
+1. Cheese burger
+2. Chicken Pizza
